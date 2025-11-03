@@ -242,3 +242,8 @@ Tu proyecto ahora tiene una **arquitectura profesional** que:
 - ✅ Está listo para producción
 
 ¡Felicitaciones por el proyecto reorganizado! 🎉
+
+---
+
+**Creado por Alan Reynoso Jacuinde**  
+📧 alan.jxx@tutamail.com | 🐙 [@JacuXx](https://github.com/JacuXx)

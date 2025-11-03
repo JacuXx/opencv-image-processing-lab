@@ -10,14 +10,14 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text(encoding='utf-8')
 
 setup(
-    name="procesamiento-imagenes",
+    name="opencv-image-processing-lab",
     version="1.0.0",
-    author="Tu Nombre",
-    author_email="tu@email.com",
+    author="Alan Reynoso Jacuinde",
+    author_email="alan.jxx@tutamail.com",
     description="Biblioteca de procesamiento de imágenes con OpenCV",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/tuusuario/practica-inteligencia",
+    url="https://github.com/JacuXx/opencv-image-processing-lab",
     packages=find_packages(include=['src', 'src.*', 'config']),
     classifiers=[
         "Development Status :: 4 - Beta",

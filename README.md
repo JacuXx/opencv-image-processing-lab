@@ -353,17 +353,14 @@ Este proyecto está licenciado bajo la **Licencia MIT** - ver el archivo [LICENS
 
 ### Autor Principal
 
-**[Alan Reynoso Jacuinde]**
+**Alan Reynoso Jacuinde**
 - 📧 Email: [alan.jxx@tutamail.com](mailto:alan.jxx@tutamail.com)
 - 🐙 GitHub: [@JacuXx](https://github.com/JacuXx)
 - 💼 LinkedIn: [Alan Reynoso Jacuinde](https://linkedin.com/in/alanrj-dev)
 
 ### Contribuidores
 
-¿Quieres contribuir? ¡Las contribuciones son bienvenidas! Ver [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.
-
-<!-- Lista de contribuidores -->
-<!-- Puedes usar https://github.com/all-contributors/all-contributors -->
+¿Quieres contribuir? ¡Las contribuciones son bienvenidas!
 
 ### Agradecimientos
 
@@ -411,17 +408,10 @@ Este proyecto fue construido con:
 - ✨ Implementar nuevos procesadores
 - 🎨 Mejorar ejemplos
 
-### Código de Conducta
-
-Este proyecto sigue el [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
-
----
 
 ## 📞 Contacto y Soporte
 
 ### ¿Necesitas Ayuda?
-
-- 💬 [Inicia una discusión](https://github.com/JacuXx/opencv-image-processing-lab/discussions)
 - 📧 Email: [alan.jxx@tutamail.com](mailto:alan.jxx@tutamail.com)
 
 ### Estado del Proyecto
@@ -435,11 +425,14 @@ Este proyecto sigue el [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md
 
 ## 🎓 Aprende Más
 
-### Tutoriales Relacionados
+### Documentación Adicional
 
-- [Guía de Arquitectura](docs/architecture.md)
-- [Patrones de Diseño](docs/design-patterns.md)
-- [Principios SOLID](docs/solid-principles.md)
+El proyecto incluye documentación detallada en la carpeta `docs/`:
+
+- **Arquitectura**: Explicación de la estructura del proyecto
+- **Patrones de Diseño**: Patrones aplicados en el código
+- **Principios SOLID**: Cómo se implementan en el proyecto
+- **Guías de Desarrollo**: Mejores prácticas y lineamientos
 
 ### Proyectos Relacionados
 
