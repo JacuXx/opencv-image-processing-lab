@@ -353,10 +353,10 @@ Este proyecto está licenciado bajo la **Licencia MIT** - ver el archivo [LICENS
 
 ### Autor Principal
 
-**[Tu Nombre]**
-- 📧 Email: [tu@email.com](mailto:tu@email.com)
-- 🐙 GitHub: [@tuusuario](https://github.com/tuusuario)
-- 💼 LinkedIn: [Tu Perfil](https://linkedin.com/in/tuperfil)
+**[Alan Reynoso Jacuinde]**
+- 📧 Email: [alan.jxx@tutamail.com](mailto:alan.jxx@tutamail.com)
+- 🐙 GitHub: [@JacuXx](https://github.com/JacuXx)
+- 💼 LinkedIn: [Alan Reynoso Jacuinde](https://linkedin.com/in/alanrj-dev)
 
 ### Contribuidores
 
