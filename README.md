@@ -421,17 +421,15 @@ Este proyecto sigue el [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md
 
 ### ¿Necesitas Ayuda?
 
-- 📖 Revisa la [Documentación](docs/)
-- 🐛 [Reporta un bug](https://github.com/tuusuario/opencv-image-processing-lab/issues)
-- 💬 [Inicia una discusión](https://github.com/tuusuario/opencv-image-processing-lab/discussions)
+- 💬 [Inicia una discusión](https://github.com/JacuXx/opencv-image-processing-lab/discussions)
 - 📧 Email: [alan.jxx@tutamail.com](mailto:alan.jxx@tutamail.com)
 
 ### Estado del Proyecto
 
-![GitHub last commit](https://img.shields.io/github/last-commit/tuusuario/opencv-image-processing-lab)
-![GitHub issues](https://img.shields.io/github/issues/tuusuario/opencv-image-processing-lab)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/tuusuario/opencv-image-processing-lab)
-![GitHub stars](https://img.shields.io/github/stars/tuusuario/opencv-image-processing-lab)
+![GitHub last commit](https://img.shields.io/github/last-commit/JacuXx/opencv-image-processing-lab)
+![GitHub issues](https://img.shields.io/github/issues/JacuXx/opencv-image-processing-lab)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/JacuXx/opencv-image-processing-lab)
+![GitHub stars](https://img.shields.io/github/stars/JacuXx/opencv-image-processing-lab)
 
 ---
 
@@ -454,7 +452,7 @@ Este proyecto sigue el [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md
 
 **⭐ Si este proyecto te fue útil, considera darle una estrella ⭐**
 
-Hecho con ❤️ por [Alan Reynoso Jacuinde]
+Hecho con ❤️ por Alan Reynoso Jacuinde
 
 
 </div>
