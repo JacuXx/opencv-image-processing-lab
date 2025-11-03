@@ -456,6 +456,5 @@ Este proyecto sigue el [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md
 
 Hecho con ❤️ por [Alan Reynoso Jacuinde]
 
-[⬆ Volver arriba](#-opencv-image-processing-lab)
 
 </div>
